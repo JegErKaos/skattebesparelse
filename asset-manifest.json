@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skattebesparelse/static/css/main.7001a9e1.css",
+    "main.js": "/skattebesparelse/static/js/main.32685672.js",
+    "static/js/787.f5b2e6e9.chunk.js": "/skattebesparelse/static/js/787.f5b2e6e9.chunk.js",
+    "index.html": "/skattebesparelse/index.html",
+    "main.7001a9e1.css.map": "/skattebesparelse/static/css/main.7001a9e1.css.map",
+    "main.32685672.js.map": "/skattebesparelse/static/js/main.32685672.js.map",
+    "787.f5b2e6e9.chunk.js.map": "/skattebesparelse/static/js/787.f5b2e6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7001a9e1.css",
+    "static/js/main.32685672.js"
+  ]
+}

@@ -1,13 +1,101 @@
+html {
+  display: inline;
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.header {
+  position: relative;
+  border: solid;
+
+  text-align: center;
+  margin: 0%;
+  padding: 10px;
+  offset: 0;
+
+}
+
+div {
+  min-height: 22px;
+  margin: 5px;
+}
+
+.løn {
+  padding: 10px;
+  margin: 10px auto;
+  width: 80%;
+  border: solid;
+  max-width: 600px;
+  border-radius: 10px;
+}
+.disclaimer {
+  padding: 10px;
+  margin: 10px auto;
+  width: 80%;
+  border: solid 1px;
+  max-width: 600px;
+  border-radius: 10px;
+}
+
+label {
+  width: 65%;
+   display: inline-block;
+
+}
+
+
+input {
+  display: inline-block;
+  float: inline-end;
+
+
+}
+
+button {
+  border-radius: 20px;
+  display: inline-block;
+
+}
+
+.btn15 {
+  width: 40%;
+  height: 25px;
+  margin: 0 5%
+}
+
+h2 {
+  padding: 0;
+  margin: 5px;
+  text-align: center;
+}
+h3 {
+  padding: 0;
+  margin: 0px;
+  color: gray;
+  display: inline-block
+  
+}
+
+.toggle {
+  float: right;
+}
+
+.obs {
+  color: gray;
+  font-size: small;
+  margin: 1px;
+
+}
+.warning {
+  color: red;
+  font-weight: bold;
+  font-size: small;
+  margin: 1px;
+
+}
+
+.disclaimer-text {
+  margin-top: 5px;
+  color: gray;
 }
